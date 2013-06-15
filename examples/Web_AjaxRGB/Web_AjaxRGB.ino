@@ -1,5 +1,5 @@
 /* Web_AjaxRGB.pde - example sketch for Webduino library */
-
+// Added shit to Ajax
 #include "SPI.h"
 #include "Ethernet.h"
 #include "WebServer.h"
